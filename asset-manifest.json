@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/news-aggregator-react/static/css/main.c27d57df.css",
+    "main.js": "/news-aggregator-react/static/js/main.0e78fa83.js",
+    "index.html": "/news-aggregator-react/index.html",
+    "main.c27d57df.css.map": "/news-aggregator-react/static/css/main.c27d57df.css.map",
+    "main.0e78fa83.js.map": "/news-aggregator-react/static/js/main.0e78fa83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c27d57df.css",
+    "static/js/main.0e78fa83.js"
+  ]
+}
